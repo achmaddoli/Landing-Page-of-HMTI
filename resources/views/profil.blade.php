@@ -40,9 +40,14 @@
     <div class="container py-5">
         <div class="row align-items-center mb-5 gap-4 gap-lg-0">
             <div class="col-lg-6 pe-lg-5">
-                <div class="position-relative">
-                    <iframe src="https://www.youtube.com/embed/iBuGENjafZ8?si=BInf3uZbwNr7z9jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="img-fluid rounded-4 shadow-lg w-100" style="object-fit: cover; min-height: 350px;"></iframe>
-                </div>
+               <div class="position-relative">
+    <a href="https://www.youtube.com/watch?v=iBuGENjafZ8" target="_blank" class="d-block">
+        <img src="https://img.youtube.com/vi/iBuGENjafZ8/maxresdefault.jpg"
+             alt="Video Profil HMTI"
+             class="img-fluid rounded-4 shadow-lg w-100"
+             style="object-fit: cover; min-height: 350px;">
+    </a>
+</div>
             </div>
             <div class="col-lg-6">
                 <div class="badge bg-warning text-dark mb-3 px-3 py-2 rounded-pill fw-bold">About Us</div>
