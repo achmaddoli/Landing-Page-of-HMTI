@@ -1,66 +1,275 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 🏛️ HMTI POLINEMA: Organization Profile & Management Website
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <img src="https://img.shields.io/badge/Platform-Web_Application-blue?style=for-the-badge" alt="Platform">
+  <img src="https://img.shields.io/badge/Focus-Organization_Profile-yellow?style=for-the-badge" alt="Focus">
+  <img src="https://img.shields.io/badge/System-Admin_Management-green?style=for-the-badge" alt="System">
 </p>
 
-## About Laravel
+---
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## 🧠 Why I Built This
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Student organizations need a digital platform that can clearly present their identity, organizational structure, work programs, news, and contact information to students and the public. Without a centralized website, information about the organization can become scattered across social media, chat groups, or informal announcements.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+This led to a key question:
 
-## Learning Laravel
+> *How can a student organization present its profile professionally while also managing organizational data more efficiently through an admin system?*
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+---
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## 🚀 What I Built
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+I developed **HMTI POLINEMA Website**, a web-based profile and information system for the Information Technology Student Association of Politeknik Negeri Malang.
 
-## Laravel Sponsors
+The website is designed to serve two main purposes:
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+- **Public Website**  
+  Presents HMTI’s identity, profile, organizational structure, work programs, latest news, and contact information.
 
-### Premium Partners
+- **Admin Management System**  
+  Allows administrators to manage organizational data such as positions, members, news, and articles through a structured dashboard.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+This project is not only a landing page — it is a digital information platform that helps HMTI communicate its organizational identity and manage internal content more efficiently.
 
-## Contributing
+---
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## 🎯 Project Context
 
-## Code of Conduct
+- **Type:** Web Application Project
+- **Field:** Organization Profile / Content Management System
+- **Organization:** HMTI Polinema 2025/2026
+- **Focus:** Public information, organizational structure, news management, and admin data management
+- **Users:** Public visitors and administrators
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+---
 
-## Security Vulnerabilities
+## ⚙️ My Approach
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Instead of building a static organization page, I focused on creating a website that combines public-facing information with an internal admin management system.
 
-## License
+### 1. Clear Organization Identity
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+A student organization needs a strong first impression.
+
+➡️ I designed a landing page that highlights HMTI’s name, period, visual identity, and main call-to-action so visitors can quickly understand what the organization represents.
+
+---
+
+### 2. Structured Public Information
+
+Visitors should be able to understand the organization without asking directly.
+
+➡️ I organized the website into clear sections such as profile, organizational structure, work programs, news, and contact information.
+
+---
+
+### 3. Dynamic Content Management
+
+Organization data changes over time, such as members, positions, and news.
+
+➡️ I built an admin panel so administrators can manage positions, functionaries, news, and articles without editing the website manually from the codebase.
+
+---
+
+### 4. Professional Visual Presentation
+
+A student organization website should look credible and easy to navigate.
+
+➡️ I used a clean visual hierarchy, consistent colors, responsive layout, and card-based sections to make the website more readable and professional.
+
+---
+
+## 🔄 Full System Workflow
+
+1. Public visitors open the HMTI Polinema landing page.
+2. Visitors can read the organization profile and understand HMTI’s role.
+3. Visitors can view work programs, divisions, and departments.
+4. Visitors can access the organization structure page.
+5. Visitors can read the latest news and articles.
+6. Visitors can contact HMTI through the contact section and social media links.
+7. Admin logs in through the admin portal.
+8. Admin manages organizational positions, functionaries, news, and articles.
+9. Updated data is displayed dynamically on the public website.
+
+---
+
+## ✨ Key Features
+
+- **🏠 Public Landing Page**  
+  Presents HMTI Polinema’s identity, period, and main introduction with a strong visual hero section.
+
+- **👥 Organization Profile**  
+  Displays HMTI’s background, purpose, and role as a student organization under the Department of Information Technology.
+
+- **🧩 Work Program / Division Section**  
+  Introduces HMTI’s divisions and departments such as BPH, Internal, PSDM, and other organizational units.
+
+- **📰 News & Article Section**  
+  Displays the latest information, articles, and organizational activities.
+
+- **📞 Contact Section**  
+  Provides email, secretariat location, and social media links to make communication easier.
+
+- **🔐 Admin Login**  
+  Provides secure access for administrators to manage website content.
+
+- **🛠️ Admin Management Dashboard**  
+  Allows administrators to manage organizational positions, functionaries, news, and articles.
+
+- **📱 Responsive Interface**  
+  Designed to remain clean and readable across different screen sizes.
+
+---
+
+## 🌍 Real-World Value
+
+The HMTI Polinema website helps the organization build a more professional digital presence and makes information easier to access for students, members, and external audiences.
+
+### Impact Highlights
+
+- Centralizes HMTI profile, structure, programs, news, and contact information.
+- Helps visitors understand the organization without relying only on social media.
+- Supports administrators in managing organizational data more efficiently.
+- Makes news and article publication more structured.
+- Strengthens HMTI’s digital identity for the 2025/2026 period.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | HTML, CSS, JavaScript |
+| **Backend** | Laravel / PHP |
+| **Database** | MySQL |
+| **UI Framework** | Bootstrap |
+| **Content Management** | Admin Panel |
+| **System Type** | Organization Profile & Management Website |
+
+---
+
+## 📸 System Preview
+
+### 🏠 Landing Page
+
+<p align="center">
+  <img src="assets/hmti/landing-page.png" alt="HMTI Polinema Landing Page" width="85%"/>
+</p>
+
+<p align="center">
+  <em>
+    The landing page introduces HMTI Polinema 2025/2026 with a strong hero section, organization identity, and navigation to key website sections.
+  </em>
+</p>
+
+---
+
+### 👥 Organization Profile
+
+<p align="center">
+  <img src="assets/hmti/profile-section.png" alt="HMTI Organization Profile" width="85%"/>
+</p>
+
+<p align="center">
+  <em>
+    The profile section explains HMTI’s role as a student organization under the Department of Information Technology.
+  </em>
+</p>
+
+---
+
+### 🧩 Work Program / Division Section
+
+<p align="center">
+  <img src="assets/hmti/work-program.png" alt="HMTI Work Program Section" width="85%"/>
+</p>
+
+<p align="center">
+  <em>
+    This section presents divisions and departments in a structured card-based layout to help visitors understand HMTI’s organizational functions.
+  </em>
+</p>
+
+---
+
+### 📰 News & Article Section
+
+<p align="center">
+  <img src="assets/hmti/news-section.png" alt="HMTI News Section" width="85%"/>
+</p>
+
+<p align="center">
+  <em>
+    The news section displays the latest information, articles, and activities from HMTI Polinema.
+  </em>
+</p>
+
+---
+
+### 🔐 Admin Management System
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/hmti/admin-login.png" alt="Admin Login" style="width:100%; border-radius:8px; border:1px solid #ddd;"/>
+      <br><br><strong>Admin Login</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/hmti/admin-management.png" alt="Admin Management Dashboard" style="width:100%; border-radius:8px; border:1px solid #ddd;"/>
+      <br><br><strong>Admin Management</strong>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <em>
+    The admin system allows administrators to manage organizational data such as positions, functionaries, news, and articles.
+  </em>
+</p>
+
+---
+
+## 📈 Learning Journey
+
+### Challenges & How I Solved Them
+
+#### 1. Structuring Organization Information
+
+**Challenge:**  
+HMTI has various information that needs to be displayed clearly, including profile, structure, divisions, news, and contact details.
+
+**Solution:**  
+I divided the website into clear sections with consistent navigation so visitors can quickly find the information they need.
+
+---
+
+#### 2. Balancing Public Website and Admin System
+
+**Challenge:**  
+The website needed to be visually appealing for public visitors while also functional for administrators.
+
+**Solution:**  
+I separated the public-facing website from the admin management system, allowing each user type to access features based on their needs.
+
+---
+
+#### 3. Making Content Easier to Maintain
+
+**Challenge:**  
+Organization data can change frequently, especially positions, members, and news.
+
+**Solution:**  
+I built an admin panel so content can be updated dynamically without changing the source code directly.
+
+---
+
+## 🧠 What I Learned
+
+Through this project, I learned how to design a web platform that supports both public communication and internal content management. I strengthened my ability to organize information architecture, build admin-based data management, and create a professional website that represents an organization’s identity clearly.
+
+---
+
+## 🎯 Project Summary
+
+HMTI POLINEMA Website is a web-based organization profile and management platform designed to present HMTI’s identity, structure, work programs, news, and contact information while also providing an admin system for managing organizational data. This project strengthened my ability to build organization-focused web applications that combine public communication, content management, and structured digital presentation.
