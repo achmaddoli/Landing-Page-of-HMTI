@@ -154,7 +154,7 @@ The HMTI Polinema website helps the organization build a more professional digit
 ### 🏠 Landing Page
 
 <p align="center">
-  <img src="assets/hmti/landing-page.png" alt="HMTI Polinema Landing Page" width="85%"/>
+  <img src="1.png" alt="HMTI Polinema Landing Page" width="85%"/>
 </p>
 
 <p align="center">
@@ -168,7 +168,7 @@ The HMTI Polinema website helps the organization build a more professional digit
 ### 👥 Organization Profile
 
 <p align="center">
-  <img src="assets/hmti/profile-section.png" alt="HMTI Organization Profile" width="85%"/>
+  <img src="2.png" alt="HMTI Organization Profile" width="85%"/>
 </p>
 
 <p align="center">
@@ -182,7 +182,7 @@ The HMTI Polinema website helps the organization build a more professional digit
 ### 🧩 Work Program / Division Section
 
 <p align="center">
-  <img src="assets/hmti/work-program.png" alt="HMTI Work Program Section" width="85%"/>
+  <img src="3.png" alt="HMTI Work Program Section" width="85%"/>
 </p>
 
 <p align="center">
@@ -196,7 +196,7 @@ The HMTI Polinema website helps the organization build a more professional digit
 ### 📰 News & Article Section
 
 <p align="center">
-  <img src="assets/hmti/news-section.png" alt="HMTI News Section" width="85%"/>
+  <img src="6.png" alt="HMTI News Section" width="85%"/>
 </p>
 
 <p align="center">
@@ -212,11 +212,11 @@ The HMTI Polinema website helps the organization build a more professional digit
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="assets/hmti/admin-login.png" alt="Admin Login" style="width:100%; border-radius:8px; border:1px solid #ddd;"/>
+      <img src="7.png" alt="Admin Login" style="width:100%; border-radius:8px; border:1px solid #ddd;"/>
       <br><br><strong>Admin Login</strong>
     </td>
     <td align="center" width="50%">
-      <img src="assets/hmti/admin-management.png" alt="Admin Management Dashboard" style="width:100%; border-radius:8px; border:1px solid #ddd;"/>
+      <img src="8.png" alt="Admin Management Dashboard" style="width:100%; border-radius:8px; border:1px solid #ddd;"/>
       <br><br><strong>Admin Management</strong>
     </td>
   </tr>
